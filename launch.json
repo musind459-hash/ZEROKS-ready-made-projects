@@ -1,0 +1,32 @@
+{
+  "launcher": {
+    "version": "1.0.2",
+    "date": "03.04.2026",
+    "download_url": "https://github.com/musind459-hash/ZEROKS/releases/latest/download/launcher.exe",
+    "changelog": "Добавлен ZEROKS GIFTER в основной каталог проектов."
+  },
+  "contacts": {
+    "discord": "mrmden",
+    "steam": "https://steamcommunity.com/profiles/76561198001972594/"
+  },
+  "projects": [
+    {
+      "name": "ZEROKS STORM",
+      "version": "2.1.0",
+      "url": "https://download1592.mediafire.com/...",
+      "desc": "Ультимативный гибрид терминала и проводника. Встроенный компилятор исходного кода. Твой шторм в мире данных."
+    },
+    {
+      "name": "NetScope",
+      "version": "1.6.5",
+      "url": "https://download937.mediafire.com/...",
+      "desc": "Высокоточный анализатор трафика. Визуализирует каждое активное соединение, пеленгует скрытую активность. Твой сетевой щит."
+    },
+    {
+      "name": "ZEROKS GIFTER",
+      "version": "1.0.0",
+      "url": "https://download1529.mediafire.com/...",
+      "desc": "Desktop Chaos Engine. Хаотично бегающие картинки прямо поверх окон. 3 встроенных пресета для тотального визуального фана."
+    }
+  ]
+}
