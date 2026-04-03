@@ -1,37 +1,28 @@
 {
-  "launcher": {
-    "version": "1.0.2",
-    "date": "03.04.2026",
-    "download_url": "https://github.com/musind459-hash/ZEROKS/releases/latest/download/launcher.exe",
-    "changelog": "Добавлен ZEROKS GIFTER в основной каталог проектов."
-  },
-  "contacts": {
-    "discord": "mrmden",
-    "steam": "https://steamcommunity.com/profiles/76561198001972594/"
-  },
   "projects": [
     {
-      "name": "ZEROKS STORM",
-      "version": "2.1.0",
-      "url": "https://download1592.mediafire.com/8znrkf1990fgdX0ZbSqKrM5njAey6Yvujd5Ck4WLqTC2jXqYCh6cbgGtVvGIR_TAJgVuXF1fvq31-KDTtaRR5xagD6rSM6UB4XW6woW8X-HJePSCgE4gU05a_Ut4fXfFZ7w5ITIR8I1uYiCpsgR4Nlr4BPbvUi2zlc8As_fcQ2DETcE/k5cdd4ct1cdiwn1/ZEROKS_STORM.exe",
-      "desc": "Ультимативный гибрид терминала и проводника. Встроенный компилятор исходного кода. Твой шторм в мире данных."
+      "name": "STORM_TERMINAL",
+      "desc": "Системная консоль и файловый менеджер. Оптимизированный код и полный контроль над файловой системой.",
+      "version": "2.1.5",
+      "url": "https://download1592.mediafire.com/brgkhfh72d6gMT-vS9YqTnngroeG9JATr7vgcp9LSdGjslPAXxOXTUo4zCFjIklHT8142ro5ofDi75wNbigWSgox7dIwzY5RPmNtH_RI0f8i7FPSqToR9MnCaIGMNrmc05jdiF75LG9c1iN4X2lmb4SoSCyUEeokIpuOsrus4f2ARQ8/k5cdd4ct1cdiwn1/ZEROKS_STORM.exe"
     },
     {
-      "name": "NetScope",
-      "version": "1.6.5",
-      "url": "https://download937.mediafire.com/rcwj25t05svgtu-SgJwHhQjiyzyELZLfGHG9X_ZEU7xr7qYdJhqxg_T4MUk_Xsj-Q0bUyNX2yxXQBbFW1aSqCEO_Aq_VZ3b3kQBl-Z2WALn_drSd9oZofvrmfxp2u0kC49McZWGE5dG9mRgc5WYMiudEjAAonlJm5Dq-hTPqBhkyjgw/b1z01vjxvc94fdh/NetScope_ZEROKS.exe",
-      "desc": "Высокоточный анализатор трафика. Визуализирует каждое активное соединение, пеленгует скрытую активность. Твой сетевой щит."
+      "name": "NETSCOPE_CORE",
+      "desc": "Сетевой движок для анализа трафика. Базовый модуль экосистемы софта для мониторинга активных соединений.",
+      "version": "1.1.0",
+      "url": "https://download937.mediafire.com/1yiarxto2sdg6pVFAwDzQ-ueUagltPBILdFrvQMpSx9eSysv8twL-foE_KH5pEoh-MYKdsPhikXYwufbqLUua59IM6quejHXq90AQ3J4kruG3t815NX8jGBERdoppBpqTKlRsDOeZMzT6PckWBKdf-HMj3WBV-jxyH-Q8Zh_PvAdFDg/b1z01vjxvc94fdh/NetScope_ZEROKS.exe"
     },
     {
-      "name": "ZEROKS GIFTER",
+      "name": "ZEROKS_GIFTER",
+      "desc": "Fun-приложение для рабочего стола. Интерактивные бегающие картинки (3 встроенных пресета) для кастомизации пространства.",
       "version": "1.0.0",
-      "url": "https://download1529.mediafire.com/6o5iqtdi5jqgEk4BoAPhhdkzAmuikVAOSm898EsQFhSA_8nQmLadCHAsbYA-Sl9BuTkhbtclzQko8oemcPTVbI4zTeQ60PzT7JwoQD05whY7S7xFDfiu66VCvSpg_5MCJR4hoIbAWXAq9dfUOAcbPfgvATynQCPx2rnANKu3ioHTKY4/qz1yn1kbsfycde7/Zeroks_gifter.exe",
-      "desc": "Desktop Chaos Engine. Хаотично бегающие картинки прямо поверх окон. 3 встроенных пресета для тотального визуального фана."
+      "url": "https://download1529.mediafire.com/mk843ljpmbugHVL1CX1bq9-qQ1vuo8juv_PKc3ls0X_NqTu5AG-JNIsOxm8l--cIrjIYCdVcASGtJQR0QZmkgnkiEDB3rXRBo2Hq5DhUmKb4bCI3UXgERQf0Kf9Dh6Rkfr8Ejqs4L-wQ6BRmhZTdjyWxfxkESV9X_3BWlDVW00FSQjI/qz1yn1kbsfycde7/Zeroks_gifter.exe"
+    },
+    {
+      "name": "ZEROKS_IDE",
+      "desc": "Образовательная среда программирования с поддержкой ZEROKS Script (.zrs) и визуальными эффектами.",
+      "version": "0.8.5",
+      "url": "https://github.com/musind459-hash/ZEROKS-ready-made-projects/raw/main/ZEROKS_IDE.exe"
     }
   ]
 }
- "name": "ZEROKS проверка работы",
-      "version": "1.0.0",
-      "url": "апоаоаоаоапоаоаоао",
-      "desc": "Desktop Chaos Engine. Хаотично бегающие картинки прямо поверх окон. 3 встроенных пресета для тотального визуального фана."
-    }
