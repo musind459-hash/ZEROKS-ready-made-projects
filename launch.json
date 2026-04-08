@@ -20,9 +20,21 @@
     },
     {
       "name": "ZeroksConverter",
-      "desc": "Легкий и быстрый GUI-конвертер изображений на Python",
+      "desc": "Легкий и быстрый GUI-конвертер изображений на Python. Поддержка массовой обработки и сохранения качества.",
       "version": "1.0.0",
       "url": "https://www.mediafire.com/file/9edc8j1t1c9vtue/converter.exe/file"
+    },
+    {
+      "name": "разработка",
+      "desc": "думаем",
+      "version": "1.0.2",
+      "url": "https://www.youtube.com/watch?v=xm3YgoEiEDc"
+    },
+    {
+      "name": "разработка",
+      "desc": "думаем",
+      "version": "1.0.0",
+      "url": "https://www.youtube.com/watch?v=i38421oRtQA"
     }
   ]
 }
